@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>841758152701-tp5742tv02e2ebplaf2ilcj5ib0qr55d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.841758152701-tp5742tv02e2ebplaf2ilcj5ib0qr55d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>841758152701-c4t3iqoj9mq3khq9f121otab9koo13fg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTq9dbmyZBUxdxmwMQHwTw-TcaCPgaVgY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>841758152701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cloud.notification</string>
+	<key>PROJECT_ID</key>
+	<string>cloud-33dac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cloud-33dac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:841758152701:ios:28cf0a71a914d4fa7deb94</string>
+	<key>DATABASE_URL</key>
+	<string>https://cloud-33dac.firebaseio.com</string>
+</dict>
+</plist>
