@@ -1,5 +1,7 @@
 # Flutter Firebase Cloud function with firebase messaging
 
+Facing Problems? contact me at   [LinkedIn](https://www.linkedin.com/in/zeeshu-x-5190b41a1/) i am always happy to help;
+
 # Screenshot 
 ![alt text](https://raw.githubusercontent.com/zeeshux7860/Flutter_cloud_function_with_firebase_messaging/master/Photo%20Beauty%20Makeup%20Youtube%20Channel%20Art(3).png)
 
